@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caciqxe/Prueba_JS.git"
+  },
+  "author": "Caciqxe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caciqxe/Prueba_JS/issues"
+  },
+  "homepage": "https://github.com/Caciqxe/Prueba_JS#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
